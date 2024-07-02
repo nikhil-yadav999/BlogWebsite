@@ -1,4 +1,4 @@
-# MERN Blog App
+# REACT Blog Website
 
 This is frontend Blog Website Project using React.
 
