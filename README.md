@@ -13,7 +13,7 @@ To run this project, please follow the given steps:
 
 Landing Page
 
-![Landing Page](https://github.com/nikhil-yadav999/BlogWebsite/tree/main/Resources/l1.png)
+![Landing Page](https://github.com/nikhil-yadav999/BlogWebsite/blob/main/Resources/l1.png)
 
 Blog Detail Page
 
