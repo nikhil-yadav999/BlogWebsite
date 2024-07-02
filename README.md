@@ -17,9 +17,9 @@ Landing Page
 
 Blog Detail Page
 
-![Detail Page](https://github.com/nikhil-yadav999/BlogWebsite/tree/main/Resources/l2.png)
+![Detail Page](https://github.com/nikhil-yadav999/BlogWebsite/blob/main/Resources/l2.png)
 
 Edit Blog Form
 
-![Edit Form](https://github.com/nikhil-yadav999/BlogWebsite/tree/main/Resources/l3.png)
+![Edit Form](https://github.com/nikhil-yadav999/BlogWebsite/blob/main/Resources/l3.png)
 # BlogWebsite
