@@ -1,10 +1,10 @@
 # MERN Blog App
 
-This is frontend for a simple MERN blog app. Frontend is built with react. [Design Credits: Paresh Khatri](https://dribbble.com/shots/8215638-UDX-Blog)
+This is frontend Blog Website Project using React.
 
 ### How to Use
 
-To use this project, follow the steps:
+To run this project, please follow the given steps:
  - Clone repository.
  - Run command "npm install".
  - Run command "npm start".
